@@ -4,7 +4,6 @@ This folder contains detailed technical troubleshooting guides referenced by my 
 
 ## Categories
 
-- [Azure](azure/)
 - [Endpoint Security](endpoint-security/)
 - [Microsoft Intune](intune/)
 - [PowerShell](powershell/)
